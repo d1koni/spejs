@@ -1,0 +1,9 @@
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\bin\Debug\spaceinvaders.exe.config
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\bin\Debug\spaceinvaders.exe
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\bin\Debug\spaceinvaders.pdb
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.csprojResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.csproj.GenerateResource.Cache
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.exe
+C:\Users\kurs\Documents\Visual Studio 2017\Projects\spaceinvaders\spaceinvaders\obj\Debug\spaceinvaders.pdb
